@@ -1,0 +1,9 @@
+D:\vivi\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\vivi\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\vivi\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.Form1.resources
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\vivi\Lab05\Lab05\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\vivi\Lab05\Lab05\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\vivi\Lab05\Lab05\obj\Debug\Lab05.pdb

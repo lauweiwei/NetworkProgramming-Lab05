@@ -1,0 +1,10 @@
+D:\vivi\Lab05\Server\bin\Debug\Server.exe.config
+D:\vivi\Lab05\Server\bin\Debug\Server.exe
+D:\vivi\Lab05\Server\bin\Debug\Server.pdb
+D:\vivi\Lab05\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\vivi\Lab05\Server\obj\Debug\Server.Form1.resources
+D:\vivi\Lab05\Server\obj\Debug\Server.Properties.Resources.resources
+D:\vivi\Lab05\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\vivi\Lab05\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\vivi\Lab05\Server\obj\Debug\Server.exe
+D:\vivi\Lab05\Server\obj\Debug\Server.pdb
